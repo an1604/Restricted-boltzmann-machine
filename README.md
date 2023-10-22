@@ -12,3 +12,10 @@ The dataset used for this project includes descriptions of mushrooms, their spec
 
     ## Dataset Information:
 The dataset used in this project is sourced by crawling TripAdvisor.com. It includes reviews of destinations in 10 different categories across East Asia. Each traveler's rating is mapped to one of the following categories: Excellent (4), Very Good (3), Average (2), Poor (1), and Terrible (0). The average rating is used to represent the user's opinion in each category.
+
+3) # RBM Spam Email Classifier:
+   This project is an implementation of a Restricted Boltzmann Machine (RBM) for classifying spam emails. RBMs are a type of artificial neural network commonly used for feature learning and data reduction tasks. In this project, we train an RBM on a dataset of emails to distinguish between spam and non-spam messages.
+   ## Dataset Description:
+   The instances in this dataset represent emails.
+   ### Classification Task
+The main classification task for this dataset is to determine whether a given email is spam or not. Spam emails encompass a diverse range of content, including advertisements, make-money-fast schemes, chain letters, and pornography.
